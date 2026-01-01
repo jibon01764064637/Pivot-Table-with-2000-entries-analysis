@@ -1,5 +1,5 @@
 
-# Global Retail & Financial Performance Analysis 📊
+# Global Retail & Financial Performance Analysis 
 
 ## Project Overview
 
